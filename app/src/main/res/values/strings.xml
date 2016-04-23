@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DragTaskBole</string>
+
+    //Toast message
+    <string name="square_dropped">Dropped</string>
+
+</resources>
